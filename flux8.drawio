@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="eUWI6ztyR29oFF-cYa3k" name="Página-1">
-    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="qOaidQLprn0fjJ-OD2QV-7" edge="1" parent="1" source="qOaidQLprn0fjJ-OD2QV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qOaidQLprn0fjJ-OD2QV-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qOaidQLprn0fjJ-OD2QV-8" connectable="0" parent="qOaidQLprn0fjJ-OD2QV-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+        <mxCell id="qOaidQLprn0fjJ-OD2QV-8" connectable="0" parent="qOaidQLprn0fjJ-OD2QV-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
           <mxGeometry relative="1" x="-0.0857" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -27,7 +27,7 @@
         <mxCell id="qOaidQLprn0fjJ-OD2QV-10" edge="1" parent="1" source="qOaidQLprn0fjJ-OD2QV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qOaidQLprn0fjJ-OD2QV-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qOaidQLprn0fjJ-OD2QV-12" connectable="0" parent="qOaidQLprn0fjJ-OD2QV-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+        <mxCell id="qOaidQLprn0fjJ-OD2QV-12" connectable="0" parent="qOaidQLprn0fjJ-OD2QV-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
           <mxGeometry relative="1" x="-0.1" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
